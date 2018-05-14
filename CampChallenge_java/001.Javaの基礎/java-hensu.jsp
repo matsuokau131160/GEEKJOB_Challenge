@@ -9,6 +9,7 @@
 <% 
 
 String zikosyokai ="私の名前は松岡慧です"; 
+out.print("私の名前は松岡慧です");
 
 %>
 
@@ -18,6 +19,6 @@ String zikosyokai ="私の名前は松岡慧です";
         <title>変数の宣言と表示（自己紹介）</title>
     </head>
     <body>
-        <p>String zikosyokai ="私の名前は松岡慧です"; </p>
+        
     </body>
 </html>
